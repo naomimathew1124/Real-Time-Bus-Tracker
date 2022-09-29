@@ -1,10 +1,10 @@
 # Real-Time-Bus-Tracker
 ## Description
 The goal of this exercise is to use real time location data from the Massachusetts Bay Transportation Authority to create a live mapping of all buses in the area.
-## How to run
-Insert instructions
+
 ## Future Improvements
-Insert Future Improvements
+One future improvement would be to use the bus data to estimate how long it would take someone to take the bus from their current location to their destination.
+
 ## License Information
 MIT License
 
